@@ -99,7 +99,7 @@ Founders: Vincent Durham
 
 ## 2012
 
-### Peercoin (PPC)
+### Peercoin • PPCoin¹ (PPC)
 
 Website: [`peercoin.net`](http://www.peercoin.net),
 Source Code @ github: [`peercoin`](https://github.com/peercoin)
@@ -107,7 +107,10 @@ Source Code @ github: [`peercoin`](https://github.com/peercoin)
 Founders: Sunny King (pseudonym)
 
 - [Peercoin @ Wikipedia](https://en.wikipedia.org/wiki/Peercoin)
+- [Peercoin White Paper - Peer-to-Peer Crypto-Currency with Proof-of-Stake (PDF)](papers/peercoin.pdf) by Sunny King (pseudonym), Scott Nadal; August 2012
 
+
+¹: Peer-to-Peer (PP)
 
 
 ### Freicoin (FRC)
