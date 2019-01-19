@@ -6,7 +6,7 @@
 ## 2009
 
 
-[Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) - 3rd January, 2009 @ 18:15:05
+3rd January, 2009 @ 18:15:05 - [Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 
 ### Bitcoin (BTC)
 
@@ -51,8 +51,8 @@ Hard Forks:
 
 ## 2011
 
-
-[Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2) - 7th October, 2011 @ 07:31:05
+7th October, 2011 @ 07:31:05 - 
+[Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2)
 
 ### Litecoin (LTC)
 
@@ -157,7 +157,7 @@ Founders: Jackson Palmer, Billy Markus
 
 ## 2015
 
-[Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
+30th July, 2015 @ 15:26:13 - [Genesis Block #0](https://etherscan.io/block/0)
 
 ### Ethereum / Ether (ETH)
 
