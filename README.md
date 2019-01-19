@@ -5,6 +5,9 @@
 
 ## 2009
 
+
+[Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) - 3rd January, 2009 @ 18:15:05
+
 ### Bitcoin (BTC)
 
 > Investment opportunity: you can buy an inscription on an online registry that gives you absolutely no rights and no income.
@@ -17,8 +20,6 @@ Website: [`bitcoin.org`](https://bitcoin.org), Source Code @ github: [`bitcoin`]
 incl. [Bitcoin Core](https://github.com/bitcoin/bitcoin) ★36 825
 
 Founders: Satoshi Nakamoto (pseudonym)
-
-[Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) - 3rd January, 2009 @ 18:15:05
 
 1 Bitcoin = 100 000 000 Satoshi (8 Digits)
 
@@ -50,6 +51,9 @@ Hard Forks:
 
 ## 2011
 
+
+[Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2) - 7th October, 2011 @ 07:31:05
+
 ### Litecoin (LTC)
 
 >  Litecoin is the "me too" coin. It was marketed as "the silver to Bitcoin's gold." The main difference
@@ -65,8 +69,6 @@ incl. [Litecoin Core](https://github.com/litecoin-project/litecoin) ★3231
 
 
 Founders: Charlie Lee
-
-[Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2) - 7th October, 2011 @ 07:31:05
 
 1 Litecoin = 100 000 000 Photons / Microlitecoins  (8 Digits)
 
@@ -155,6 +157,8 @@ Founders: Jackson Palmer, Billy Markus
 
 ## 2015
 
+[Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
+
 ### Ethereum / Ether (ETH)
 
 >  If Bitcoin is like an Excel spreadsheet, then Ethereum is like a spreadsheet with macros.
@@ -167,7 +171,6 @@ incl. [Go Ethereum](https://github.com/ethereum/go-ethereum) ★22 393
 
 Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
 
-[Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
 
 1 Ether = 1 00 000 000 000 000 000 Wei (18 Digits)
 
