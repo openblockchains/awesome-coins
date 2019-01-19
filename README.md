@@ -35,8 +35,7 @@ Hard Forks:
 - 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU) 
 
 
-<!-- break -->
-
+Documents:
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
 - [Bitcoin Gold White Paper (PDF)](papers/bitcoingold.pdf)
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
@@ -188,8 +187,8 @@ Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
 Hard Forks:
 - 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**, website: [`ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
 
-<!-- break -->
 
+Documents:
 - [Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform](https://bitsblocks.github.io/ethereum-whitepaper) by Vitalik Buterin, et al
 - [Ethereum @ Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 
