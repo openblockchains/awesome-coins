@@ -89,6 +89,9 @@ Founders: Charlie Lee
 >
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
+Website: [`namecoin.org`](https://www.namecoin.org),
+Source Code @ github: [`namecoin`](https://github.com/namecoin)
+
 Founders: Vincent Durham
 
 - [Namecoin @ Wikipedia](https://en.wikipedia.org/wiki/Namecoin)
@@ -98,12 +101,12 @@ Founders: Vincent Durham
 
 ### Peercoin (PPC)
 
+Website: [`peercoin.net`](http://www.peercoin.net),
+Source Code @ github: [`peercoin`](https://github.com/peercoin)
+
 Founders: Sunny King (pseudonym)
 
 - [Peercoin @ Wikipedia](https://en.wikipedia.org/wiki/Peercoin)
-
-Website: [`peercoin.net`](http://www.peercoin.net),
-Source Code @ github: [`peercoin`](https://github.com/peercoin)
 
 
 
@@ -113,10 +116,10 @@ Source Code @ github: [`peercoin`](https://github.com/peercoin)
 >
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
-Founders: Mark Friedenbach
-
 Website: [`freico.in`](http://freico.in), 
 Source Code @ github: [`freicoin`](https://github.com/freicoin)
+
+Founders: Mark Friedenbach
 
 - Proof of Work with SHA-256 hashing
 
