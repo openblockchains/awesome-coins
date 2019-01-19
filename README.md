@@ -31,6 +31,8 @@ Founders: Satoshi Nakamoto (pseudonym)
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
   - [List of Bitcoin Forks](https://en.wikipedia.org/wiki/List_of_bitcoin_forks)
+  - [Bitcoin Cash @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Cash)
+  - [Bitcoin Gold @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Gold)
 - [Bitcoin @ Rational Wiki](https://rationalwiki.org/wiki/Bitcoin)
 - [There can only ever be 21 million forks of Bitcoin: a survey so far](https://davidgerard.co.uk/blockchain/2017/11/20/there-can-only-ever-be-21-million-forks-of-bitcoin-a-survey-so-far/) by David Gerard, November 2017
 
@@ -89,7 +91,7 @@ Founders: Charlie Lee
 
 ### Ethereum / Ether (ETH)
 
->  If Bitcoin like an Excel spreadsheet, then Ethereum is like a spreadsheet with macros.
+>  If Bitcoin is like an Excel spreadsheet, then Ethereum is like a spreadsheet with macros.
 >
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
@@ -99,7 +101,7 @@ incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393
 
 [Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
 
-1 Ether = 1 00 000 000 000 000 000 Wei
+1 Ether = 1 00 000 000 000 000 000 Wei (18 Digits)
 
 
 - [Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform](https://bitsblocks.github.io/ethereum-whitepaper) by Vitalik Buterin, et al
@@ -107,7 +109,7 @@ incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393
 
 
 Hard Forks:
-- ? @ Block # - **Ethereum Classic (ETC)**  
+- 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**, website: [`https://ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
 
 
 
