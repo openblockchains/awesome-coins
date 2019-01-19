@@ -14,7 +14,8 @@
 > Also investors must pay $3B per year or the registry ceases to exist. 
 > BUT there's a limited number of registry entries so it must be worth a lot. 
 >
-> -- [Trolly McTrollface, Best of Bitcoin Maximalist](https://bitsblocks.github.io/bitcoin-maximalist)
+> -- [Trolly McTrollface, Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics](https://bitsblocks.github.io/bitcoin-maximalist)
+
 
 Website: [`bitcoin.org`](https://bitcoin.org), Source Code @ github: [`bitcoin`](https://github.com/bitcoin)
 incl. [Bitcoin Core](https://github.com/bitcoin/bitcoin) ★36 825
@@ -60,7 +61,7 @@ Hard Forks:
 >  from Bitcoin is a different hash designed to be resistant to GPU mining (though ASICs eventually came out)
 >  and a shorter block time.
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 
 Website: [`litecoin.org`](http://litecoin.org), 
@@ -86,7 +87,7 @@ Founders: Charlie Lee
 
 > Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) on a blockchain. 
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 Founders: Vincent Durham
 
@@ -110,7 +111,7 @@ Source Code @ github: [`peercoin`](https://github.com/peercoin)
 
 > Freicoin uses demurrage - negative interest - to discourage speculative hoarding.
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 Founders: Mark Friedenbach
 
@@ -129,7 +130,7 @@ Source Code @ github: [`freicoin`](https://github.com/freicoin)
 > The idea was mostly to have some fun with cryptocurrency cheap enough to mess around with;
 > and who knows, maybe we'll all get rich!
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 Website: [`dogecoin.com`](http://dogecoin.com), 
 Source Code @ github: [`dogecoin`](https://github.com/dogecoin)
@@ -150,7 +151,7 @@ Founders: Jackson Palmer, Billy Markus
 > DafuqCoin compromised exchanges with a rootkit because the exchanges failed to check the 
 > code before running it.
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 
 
@@ -163,7 +164,7 @@ Founders: Jackson Palmer, Billy Markus
 
 >  If Bitcoin is like an Excel spreadsheet, then Ethereum is like a spreadsheet with macros.
 >
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+> -- [David Gerard, Attack of the 50 Foot Blockchain - Scams, Drugs, Crooks & Cryptography](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 Website: [`ethereum.org`](https://ethereum.org), 
 Source Code @ github: [`ethereum`](https://github.com/ethereum) 
