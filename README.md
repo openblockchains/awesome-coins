@@ -28,6 +28,13 @@ Founders: Satoshi Nakamoto (pseudonym)
 - Block Reward: 50 Bitcoin  (halves every four years, 25 Bitcoin in ?, 12 1/5 Bitcoin in ?, etc.)
 - Proof of Work with SHA-256 Hashing
 
+Hard Forks:
+- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
+  Hard Forks (of Hard Forks):
+  - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
+- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU) 
+
+
 <!-- break -->
 
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
@@ -39,12 +46,6 @@ Founders: Satoshi Nakamoto (pseudonym)
 - [Bitcoin @ Rational Wiki](https://rationalwiki.org/wiki/Bitcoin)
 - [There can only ever be 21 million forks of Bitcoin: a survey so far](https://davidgerard.co.uk/blockchain/2017/11/20/there-can-only-ever-be-21-million-forks-of-bitcoin-a-survey-so-far/) by David Gerard, November 2017
 
-
-Hard Forks:
-- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
-  Hard Forks (of Hard Forks):
-  - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
-- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU) 
 
 
 
@@ -184,12 +185,13 @@ Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
 1 Ether = 1 00 000 000 000 000 000 Wei (18 Digits)
 
 
-- [Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform](https://bitsblocks.github.io/ethereum-whitepaper) by Vitalik Buterin, et al
-- [Ethereum @ Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-
-
 Hard Forks:
 - 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**, website: [`ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
+
+<!-- break -->
+
+- [Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform](https://bitsblocks.github.io/ethereum-whitepaper) by Vitalik Buterin, et al
+- [Ethereum @ Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 
 
 
