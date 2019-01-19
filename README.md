@@ -5,7 +5,7 @@
 
 ## 2009
 
-### Bitcoin
+### Bitcoin (BTC)
 
 > Investment opportunity: you can buy an inscription on an online registry that gives you absolutely no rights and no income.
 > Also investors must pay $3B per year or the registry ceases to exist. 
@@ -25,13 +25,16 @@ Genesis Block #0 -  2009
 
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
+  - [List of Bitcoin Forks](https://en.wikipedia.org/wiki/List_of_bitcoin_forks)
 - [Bitcoin @ Rational Wiki](https://rationalwiki.org/wiki/Bitcoin)
+- [There can only ever be 21 million forks of Bitcoin: a survey so far](https://davidgerard.co.uk/blockchain/2017/11/20/there-can-only-ever-be-21-million-forks-of-bitcoin-a-survey-so-far/) by David Gerard, November 2017
 
 
 Hard Forks:
-- Bitcoin Cash
-- Bitcoin Gold
-
+- 1st August 2017 @ Block #478 558 - **Bitcoin Cash / BTH** also known as Bitcoin ABC (Adjustable Blocksize Cap), Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code - [github: `Bitcoin-ABC`](https://github.com/Bitcoin-ABC) 
+  - Hard Forks (of Hard Forks):
+    - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) / BSV**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code - [github: `bitcoin-sv`](https://github.com/bitcoin-sv)
+- 24th October 2017 @ Block #491 407 - **Bitcoin Gold / BTG**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code - [github: `BTCGPU`](https://github.com/BTCGPU) 
 
 
 
