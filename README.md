@@ -31,6 +31,7 @@ Founders: Satoshi Nakamoto (pseudonym)
 <!-- break -->
 
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
+- [Bitcoin Gold White Paper (PDF)](papers/bitcoingold.pdf)
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
   - [List of Bitcoin Forks](https://en.wikipedia.org/wiki/List_of_bitcoin_forks)
   - [Bitcoin Cash @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Cash)
@@ -79,6 +80,7 @@ Founders: Charlie Lee
 
 <!-- break -->
 
+- [Litecoin - a lite version of Bitcoin. Launched!](papers/litecoin.md) by Charlie Lee, October 2011
 - [Litecoin @ Wikipedia](https://en.wikipedia.org/wiki/Litecoin)
 
 
