@@ -163,7 +163,7 @@ Founders: Jackson Palmer, Billy Markus
 
 Website: [`ethereum.org`](https://ethereum.org), 
 Source Code @ github: [`ethereum`](https://github.com/ethereum) 
-incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393 
+incl. [Go Ethereum](https://github.com/ethereum/go-ethereum) ★22 393 
 
 Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
 
