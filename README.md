@@ -100,7 +100,7 @@ Founders: Sunny King (pseudonym)
 - [Peercoin @ Wikipedia](https://en.wikipedia.org/wiki/Peercoin)
 
 Website: [`peercoin.net`](http://www.peercoin.net),
-Source Code @ github: [`peercoin`](hhttps://github.com/peercoin)
+Source Code @ github: [`peercoin`](https://github.com/peercoin)
 
 
 
