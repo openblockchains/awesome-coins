@@ -112,7 +112,7 @@ Source Code @ github: [`peercoin`](hhttps://github.com/peercoin)
 
 Founders: Mark Friedenbach
 
-Website: [`freicoin.org`](http://www.freicoin.org), 
+Website: [`freico.in`](http://freico.in), 
 Source Code @ github: [`freicoin`](https://github.com/freicoin)
 
 - Proof of Work with SHA-256 hashing
