@@ -31,7 +31,7 @@ Founders: Satoshi Nakamoto (pseudonym)
 Hard Forks:
 - 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
   Hard Forks (of Hard Forks):
-  - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
+  - 15th November 2018 @ Block #556 766  - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
 - 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU) 
 
 
