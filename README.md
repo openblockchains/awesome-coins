@@ -13,17 +13,18 @@
 >
 > -- [Trolly McTrollface, Best of Bitcoin Maximalist](https://bitsblocks.github.io/bitcoin-maximalist)
 
-Website: [`bitcoin.org`](https://bitcoin.org), Source Code @ [github: `bitcoin`](https://github.com/bitcoin)
+Website: [`bitcoin.org`](https://bitcoin.org), Source Code @ github: [`bitcoin`](https://github.com/bitcoin)
 incl. [Bitcoin Core](https://github.com/bitcoin/bitcoin) ★36 825
 
 Founders: Satoshi Nakamoto (pseudonym)
 
-[Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) - 3rd January, 200918:15:05
+[Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) - 3rd January, 2009 @ 18:15:05
 
 1 Bitcoin = 100 000 000 Satoshi (8 Digits)
 
 - Block Time: ~10 Minutes
 - Block Reward: 50 Bitcoin  (halves every four years, 25 Bitcoin in ?, 12 1/5 Bitcoin in ?, etc.)
+- Proof of Work with SHA-256 Hashing
 
 <!-- break -->
 
@@ -35,10 +36,10 @@ Founders: Satoshi Nakamoto (pseudonym)
 
 
 Hard Forks:
-- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code - [github: `Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \ 
+- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
   Hard Forks (of Hard Forks):
-  - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code - [github: `bitcoin-sv`](https://github.com/bitcoin-sv)
-- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code - [github: `BTCGPU`](https://github.com/BTCGPU) 
+  - 15th November 2018 @   - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
+- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU) 
 
 
 
@@ -56,9 +57,9 @@ Hard Forks:
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
 
-Website: [litecoin.org](http://litecoin.org), 
-Source Code - [github: litecoin-project](https://github.com/litecoin-project) 
-([Litecoin Core](https://github.com/litecoin-project/litecoin) ★3231)    
+Website: [`litecoin.org`](http://litecoin.org), 
+Source Code @ github: [`litecoin-project`](https://github.com/litecoin-project) 
+incl. [Litecoin Core](https://github.com/litecoin-project/litecoin) ★3231
 
 
 Founders: Charlie Lee
@@ -92,9 +93,9 @@ Founders: Charlie Lee
 >
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
-Website: [ethereum.org](https://ethereum.org), 
-Source Code - [github: ethereum](https://github.com/ethereum) 
-([Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393) 
+Website: [`ethereum.org`](https://ethereum.org), 
+Source Code @ github: [`ethereum`](https://github.com/ethereum) 
+incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393 
 
 [Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
 
@@ -104,8 +105,9 @@ Source Code - [github: ethereum](https://github.com/ethereum)
 - [Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform](https://bitsblocks.github.io/ethereum-whitepaper) by Vitalik Buterin, et al
 - [Ethereum @ Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 
+
 Hard Forks:
-- Ethereum Classic (ETC)  - @ Block #
+- ? @ Block # - **Ethereum Classic (ETC)**  
 
 
 
