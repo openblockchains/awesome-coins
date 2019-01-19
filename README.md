@@ -80,12 +80,78 @@ Founders: Charlie Lee
 
 
 
+### Namecoin (NMC)
+
+> Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) on a blockchain. 
+>
+> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+
+Founders: Vincent Durham
+
+- [Namecoin @ Wikipedia](https://en.wikipedia.org/wiki/Namecoin)
+
 
 ## 2012
 
+### Peercoin (PPC)
+
+Founders: Sunny King (pseudonym)
+
+- [Peercoin @ Wikipedia](https://en.wikipedia.org/wiki/Peercoin)
+
+Website: [`peercoin.net`](http://www.peercoin.net),
+Source Code @ github: [`peercoin`](hhttps://github.com/peercoin)
+
+
+
+### Freicoin (FRC)
+
+> Freicoin uses demurrage - negative interest - to discourage speculative hoarding.
+>
+> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+
+Founders: Mark Friedenbach
+
+Website: [`freicoin.org`](http://www.freicoin.org), 
+Source Code @ github: [`freicoin`](https://github.com/freicoin)
+
+- Proof of Work with SHA-256 hashing
+
+
+
 ## 2013
 
+### Dogecoin (DOGE)
+
+> Dogecoin started originally as a joke based on the "Doge" Shiba Inu Internet meme.
+> The idea was mostly to have some fun with cryptocurrency cheap enough to mess around with;
+> and who knows, maybe we'll all get rich!
+>
+> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+
+Website: [`dogecoin.com`](http://dogecoin.com), 
+Source Code @ github: [`dogecoin`](https://github.com/dogecoin)
+
+Founders: Jackson Palmer, Billy Markus
+
+
+- Proof of Work with Scrypt hasing
+
+<!-- break -->
+- [Dogecoin @ Wikipedia](https://en.wikipedia.org/wiki/Dogecoin)
+
+
 ## 2014
+
+### DafuqCoin (DFQ)
+
+> DafuqCoin compromised exchanges with a rootkit because the exchanges failed to check the 
+> code before running it.
+>
+> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+
+
+
 
 ## 2015
 
@@ -99,6 +165,8 @@ Website: [`ethereum.org`](https://ethereum.org),
 Source Code @ github: [`ethereum`](https://github.com/ethereum) 
 incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393 
 
+Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
+
 [Genesis Block #0](https://etherscan.io/block/0) - 30th July, 2015 @ 15:26:13
 
 1 Ether = 1 00 000 000 000 000 000 Wei (18 Digits)
@@ -109,7 +177,7 @@ incl. [Ethereum Core](https://github.com/ethereum/go-ethereum) ★22 393
 
 
 Hard Forks:
-- 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**, website: [`https://ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
+- 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**, website: [`ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
 
 
 
