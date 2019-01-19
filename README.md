@@ -85,7 +85,7 @@ Founders: Charlie Lee
 
 ### Namecoin (NMC)
 
-> Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) on a blockchain. 
+> Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) system on a blockchain. 
 >
 > -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
 
