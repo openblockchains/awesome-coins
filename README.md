@@ -13,8 +13,8 @@
 >
 > -- [Trolly McTrollface, Best of Bitcoin Maximalist](https://bitsblocks.github.io/bitcoin-maximalist)
 
-Website: [`bitcoin.org`](https://bitcoin.org), Source Code - [github: `bitcoin`](https://github.com/bitcoin)
-([Bitcoin Core](https://github.com/bitcoin/bitcoin) ★36 825)
+Website: [`bitcoin.org`](https://bitcoin.org), Source Code @ [github: `bitcoin`](https://github.com/bitcoin)
+incl. [Bitcoin Core](https://github.com/bitcoin/bitcoin) ★36 825
 
 Founders: Satoshi Nakamoto (pseudonym)
 
@@ -25,6 +25,7 @@ Founders: Satoshi Nakamoto (pseudonym)
 - Block Time: ~10 Minutes
 - Block Reward: 50 Bitcoin  (halves every four years, 25 Bitcoin in ?, 12 1/5 Bitcoin in ?, etc.)
 
+<!-- break -->
 
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
