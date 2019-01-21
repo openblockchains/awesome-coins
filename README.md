@@ -53,6 +53,23 @@ Documents:
 
 ## 2011
 
+
+
+### Namecoin (NMC)
+
+> Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) system on a blockchain. 
+>
+> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
+
+Website: [`namecoin.org`](https://www.namecoin.org),
+Source Code @ github: [`namecoin`](https://github.com/namecoin)
+
+Founders: Vincent Durham (pseudonym)
+
+- [Namecoin @ Wikipedia](https://en.wikipedia.org/wiki/Namecoin)
+
+
+
 7th October, 2011 @ 07:31:05 - 
 [Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2)
 
@@ -83,20 +100,6 @@ Founders: Charlie Lee
 - [Litecoin - a lite version of Bitcoin. Launched!](papers/litecoin.md) by Charlie Lee, October 2011
 - [Litecoin @ Wikipedia](https://en.wikipedia.org/wiki/Litecoin)
 
-
-
-### Namecoin (NMC)
-
-> Namecoin an attempt to implement an alternate Internet Domain Name Service (DNS) system on a blockchain. 
->
-> -- [David Gerard, Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/table-of-contents/)
-
-Website: [`namecoin.org`](https://www.namecoin.org),
-Source Code @ github: [`namecoin`](https://github.com/namecoin)
-
-Founders: Vincent Durham
-
-- [Namecoin @ Wikipedia](https://en.wikipedia.org/wiki/Namecoin)
 
 
 ## 2012
