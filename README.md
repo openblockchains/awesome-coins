@@ -6,9 +6,11 @@
 ## 2009
 
 
-3rd January, 2009 @ 18:15:05 - [Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 
 ### Bitcoin (BTC)
+
+3rd January, 2009 @ 18:15:05 - [Genesis Block #0](https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
+
 
 > Investment opportunity: you can buy an inscription on an online registry that gives you absolutely no rights and no income.
 > Also investors must pay $3B per year or the registry ceases to exist. 
@@ -70,10 +72,11 @@ Founders: Vincent Durham (pseudonym)
 
 
 
+### Litecoin (LTC)
+
 7th October, 2011 @ 07:31:05 - 
 [Genesis Block #0](http://explorer.litecoin.net/block/12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2)
 
-### Litecoin (LTC)
 
 >  Litecoin is the "me too" coin. It was marketed as "the silver to Bitcoin's gold." The main difference
 >  from Bitcoin is a different hash designed to be resistant to GPU mining (though ASICs eventually came out)
@@ -169,9 +172,9 @@ Founders: Jackson Palmer, Billy Markus
 
 ## 2015
 
-30th July, 2015 @ 15:26:13 - [Genesis Block #0](https://etherscan.io/block/0)
-
 ### Ethereum / Ether (ETH)
+
+30th July, 2015 @ 15:26:13 - [Genesis Block #0](https://etherscan.io/block/0)
 
 >  If Bitcoin is like an Excel spreadsheet, then Ethereum is like a spreadsheet with macros.
 >
