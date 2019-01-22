@@ -3,19 +3,20 @@
 
 # Awesome  Coins - Crypto Currency Timeline
 
+## 1997
+
+### Hashcash
+
+- [Hashcash Announcement - Hash cash postage implementation](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash-announce.txt) by Adam Back, March 1997
+- [Hashcash White Paper - A Denial of Service Counter-Measure (PDF)](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash.pdf) by Adam Back, August 2002
+
+
 
 ## 1998
 
 ### B-money
 
 - [B-money White Paper - A scheme for a group of untraceable digital pseudonyms to pay each other with money and to enforce contracts amongst themselves without outside help](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bmoney.md) by Wei Dai, November 1998
-
-
-## 2002
-
-### Hashcash
-
-- [Hashcash White Paper - A Denial of Service Counter-Measure (PDF)](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash.pdf) by Adam Back, August 2002
 
 
 
