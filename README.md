@@ -17,6 +17,12 @@
 ### B-money
 
 - [B-money White Paper - A scheme for a group of untraceable digital pseudonyms to pay each other with money and to enforce contracts amongst themselves without outside help](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bmoney.md) by Wei Dai, November 1998
+- [B-money › Wei Dai @ Wikipedia](https://en.wikipedia.org/wiki/Wei_Dai#b-money)
+
+### Bit gold
+
+- [Bit Gold White Paper](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bitgold.md) by Nick Szabo, December 2005
+- [Bit Gold › Nick_Szabo @ Wikipedia](https://en.wikipedia.org/wiki/Nick_Szabo#Bit_gold)
 
 
 
