@@ -63,6 +63,7 @@ Hard Forks:
 Documents:
 - [Bitcoin Announcement - Bitcoin P2P e-cash paper](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bitcoin-announce.txt) by Satoshi Nakamoto (pseudonym), October 2008
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
+- [Bitcoin Announcement - Bitcoin v0.1 released](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bitcoin-v0.1-released.txt) by Satoshi Nakamoto (pseudonym), January 2009
 - [Bitcoin Gold White Paper (PDF)](papers/bitcoingold.pdf)
 - [Bitcoin @ Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
   - [List of Bitcoin Forks](https://en.wikipedia.org/wiki/List_of_bitcoin_forks)
