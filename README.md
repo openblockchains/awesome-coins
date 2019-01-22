@@ -11,6 +11,13 @@
 - [B-money White Paper - A scheme for a group of untraceable digital pseudonyms to pay each other with money and to enforce contracts amongst themselves without outside help](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bmoney.md) by Wei Dai, November 1998
 
 
+## 2002
+
+### Hashcash
+
+- [Hashcash White Paper - A Denial of Service Counter-Measure (PDF)](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash.pdf) by Adam Back, August 2002
+
+
 
 
 ## 2009
