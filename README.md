@@ -7,9 +7,9 @@
 
 ### Hashcash
 
-- [Hashcash Announcement - Hash cash postage implementation](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash-announce.txt) by Adam Back, March 1997
+- [Hashcash Announcement - Hash cash postage implementation - A partial hash collision based postage scheme](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash-announce.txt) by Adam Back, March 1997
 - [Hashcash White Paper - A Denial of Service Counter-Measure (PDF)](https://github.com/openblockchains/blockchain-whitepapers/blob/master/hashcash.pdf) by Adam Back, August 2002
-
+- [Hashcash @ Wikipedia](https://en.wikipedia.org/wiki/Hashcash)
 
 
 ## 1998
