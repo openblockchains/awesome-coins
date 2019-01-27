@@ -1,8 +1,7 @@
+_Decentralized Electronic Peer-to-Peer Cash & Payments_
 
 
 # Awesome Coins - Crypto Currency Timeline 
-
-_Decentralized Electronic Peer-to-Peer Cash & Payments_
 
 
 
