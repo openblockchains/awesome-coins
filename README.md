@@ -1,7 +1,9 @@
 
 
+# Awesome Coins - Crypto Currency Timeline 
 
-# Awesome Coins - Crypto Currency Timeline - Decentralized Electronic Peer-to-Peer Cash & Payments
+_Decentralized Electronic Peer-to-Peer Cash & Payments_
+
 
 
 ## 1997
