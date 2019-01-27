@@ -24,7 +24,7 @@ _Decentralized Electronic Peer-to-Peer Cash & Payments_
 ### Bit gold
 
 - [Bit Gold White Paper](https://github.com/openblockchains/blockchain-whitepapers/blob/master/bitgold.md) by Nick Szabo, December 2005
-- [Bit Gold › Nick_Szabo @ Wikipedia](https://en.wikipedia.org/wiki/Nick_Szabo#Bit_gold)
+- [Bit Gold › Nick Szabo @ Wikipedia](https://en.wikipedia.org/wiki/Nick_Szabo#Bit_gold)
 
 
 
