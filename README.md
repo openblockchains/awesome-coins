@@ -55,7 +55,7 @@ Founders: Satoshi Nakamoto (pseudonym)
 - Block Reward: 50 Bitcoin  (halves every four years, 25 Bitcoin in ?, 12 1/5 Bitcoin in ?, etc.)
 - Proof of Work with SHA-256 Hashing
 
-Hard Forks:
+Major Hard Forks:
 - 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**     
   Hard Forks (of Hard Forks):
   - 15th November 2018 @ Block #556 766  - **Bitcoin Satoshi's Vision (SV) (BSV)**
@@ -218,7 +218,7 @@ Founders: Vitalik Buterin, Gavin Wood, Joseph Lubin
 1 Ether = 1 00 000 000 000 000 000 Wei (18 Digits)
 
 
-Hard Forks:
+Major Hard Forks:
 - 20th July, 2016 @ Block #1 920 000 - **Ethereum Classic (ETC)**  
 
 
