@@ -56,10 +56,10 @@ Founders: Satoshi Nakamoto (pseudonym)
 - Proof of Work with SHA-256 Hashing
 
 Hard Forks:
-- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
+- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)   
   Hard Forks (of Hard Forks):
   - 15th November 2018 @ Block #556 766  - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
-- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU)
+- 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [`BTCGPU`](https://github.com/BTCGPU)
 
 
 Documents:
@@ -242,18 +242,18 @@ Website: [`ethereumclassic.org`](https://ethereumclassic.org), Source Code @ git
 
 ## 2017
 
-### Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**  - Bitcoin Fork
+### Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap) - Bitcoin Fork
 
 1st August 2017 @ Block #478 558 
 
-Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\
+Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)
 
 
 ### Bitcoin Gold (BTG) - Bitcoin Fork
 
 24th October 2017 @ Block #491 407 
 
-Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU)
+Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [`BTCGPU`](https://github.com/BTCGPU)
 
 
 ## 2018
