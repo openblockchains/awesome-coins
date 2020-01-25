@@ -56,9 +56,9 @@ Founders: Satoshi Nakamoto (pseudonym)
 - Proof of Work with SHA-256 Hashing
 
 Hard Forks:
-- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BTH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
+- 1st August 2017 @ Block #478 558 - **Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**, Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\  
   Hard Forks (of Hard Forks):
-  - 15th November 2018 @ Block #556 766  - **Bitcoin Cash Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
+  - 15th November 2018 @ Block #556 766  - **Bitcoin Satoshi's Vision (SV) (BSV)**, Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
 - 24th October 2017 @ Block #491 407 - **Bitcoin Gold (BTG)**, Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU)
 
 
@@ -230,8 +230,45 @@ Documents:
 
 ## 2016
 
+### Ethereum Classic (ETC) - Ethereum Fork
+
+- 20th July, 2016 @ Block #1 920 000 
+
+Website: [`ethereumclassic.org`](https://ethereumclassic.org), Source Code @ github: [`ethereumclassic`](https://github.com/ethereumclassic)  
+
+
+
+
+
 ## 2017
+
+### Bitcoin Cash (BCH) • Bitcoin ABC (Adjustable Blocksize Cap)**  - Bitcoin Fork
+
+1st August 2017 @ Block #478 558 
+
+Website: [`bitcoincash.org`](https://www.bitcoincash.org), Source Code @ github: [`Bitcoin-ABC`](https://github.com/Bitcoin-ABC)  \\
+
+
+### Bitcoin Gold (BTG) - Bitcoin Fork
+
+24th October 2017 @ Block #491 407 
+
+Website: [`bitcoingold.org`](https://bitcoingold.org), Source Code @ github: [ `BTCGPU`](https://github.com/BTCGPU)
+
 
 ## 2018
 
+### Bitcoin Satoshi's Vision (SV) (BSV) - Bitcoin Cash Fork
+
+15th November 2018 @ Block #556 766 
+
+Website: [`bitcoinsv.io`](https://bitcoinsv.io), Source Code @ github: [`bitcoin-sv`](https://github.com/bitcoin-sv)
+
+Major Protocol "Hard Fork" Network Upgrades
+- 4th February 2020 @ Block #?? - Genesis Upgrade
+
+
 ## 2019
+
+
+## 2020
